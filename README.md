@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lection+from+Rodina+Role+Play+v1.2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lection+from+Rodina+Role+Play+v1.4)](https://git.io/typing-svg)
 
 
 **Lua** скрипт для проекта Rodina Role Play – это незаменимое средство для быстрого и удобного чтения лекций для сотрудников государственных структур. 
